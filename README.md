@@ -47,3 +47,13 @@ Logistic Regression was selected as the best model based on Macro F1-Score.
 
 Accuracy : 77.56%
 Macro F1-Score : 0.62
+
+
+Conclusion & Limitations
+Logistic Regression achieved an accuracy of 77.56% and a Macro F1-Score of 0.62. The model performed best on positive reviews but struggled to classify neutral reviews.
+
+Limitations
+- Dataset has an imbalanced sentiment distribution, especially in the neutral class.
+- Sentiment labels are derived from user ratings, not manual text annotation.
+- Some reviews may contain ambiguous or informal language.
+- Model performance on neutral sentiment remains relatively low.
