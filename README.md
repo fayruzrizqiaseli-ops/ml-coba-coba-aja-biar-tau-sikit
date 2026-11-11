@@ -59,10 +59,10 @@ Limitations
 - Model performance on neutral sentiment remains relatively low.
 
 
- Visualizations
+Visualizations
 
- Sentiment Distribution
-![Sentiment Distribution](./results/sentiment_distribution.png)
+Sentiment Distribution
+![Sentiment Distribution](./result/sentiment_distribution.png)
 
- Confusion Matrix
-![Confusion Matrix](./results/confusion_matrix.png)
+Confusion Matrix
+![Confusion Matrix](./result/confusion_matrix.png)
