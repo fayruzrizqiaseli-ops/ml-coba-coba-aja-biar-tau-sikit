@@ -66,3 +66,6 @@ Sentiment Distribution
 
 Confusion Matrix
 ![Confusion Matrix](./result/confusion_matrix.png)
+
+Dataset Source
+Dataset: [Gojek App Reviews](https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia)
