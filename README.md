@@ -57,3 +57,14 @@ Limitations
 - Sentiment labels are derived from user ratings, not manual text annotation.
 - Some reviews may contain ambiguous or informal language.
 - Model performance on neutral sentiment remains relatively low.
+
+
+Visualizations
+
+Sentiment Distribution
+
+![Sentiment Distribution](results/sentiment_distribution.png)
+
+Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
