@@ -30,10 +30,20 @@ Sentiment labels were generated based on user ratings:
 - Rating 1–2: Negative (-1)
 - Rating 3: Neutral (0)
 - Rating 4–5: Positive (1)
-
+- 
 Preprocessing
 
 The following preprocessing steps were applied:
 - Text cleaning
 - Slang normalization
 - Stopword removal while preserving negation words
+
+
+Modeling & Evaluation
+
+TF-IDF was used for feature extraction. Two machine learning algorithms were compared: Multinomial Naive Bayes and Logistic Regression.
+
+Logistic Regression was selected as the best model based on Macro F1-Score.
+
+Accuracy : 77.56%
+Macro F1-Score : 0.62
