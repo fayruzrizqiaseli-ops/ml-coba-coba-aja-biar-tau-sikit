@@ -14,3 +14,26 @@ Objectives
 - Transform text data into numerical features using TF-IDF.
 - Compare machine learning models for sentiment classification.
 - Evaluate model performance using classification metrics.
+
+
+Dataset & Preprocessing
+
+The dataset consists of Indonesian-language user reviews of the Gojek application.
+
+- Initial sample: 5,000 reviews.
+- Final dataset: 3,653 unique reviews.
+- Positive: 2,288 reviews.
+- Negative: 1,152 reviews.
+- Neutral: 213 reviews.
+
+Sentiment labels were generated based on user ratings:
+- Rating 1–2: Negative (-1)
+- Rating 3: Neutral (0)
+- Rating 4–5: Positive (1)
+
+Preprocessing
+
+The following preprocessing steps were applied:
+- Text cleaning
+- Slang normalization
+- Stopword removal while preserving negation words
