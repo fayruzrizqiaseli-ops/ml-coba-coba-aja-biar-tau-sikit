@@ -62,9 +62,7 @@ Limitations
 Visualizations
 
 Sentiment Distribution
-
-![Sentiment Distribution](results/sentiment_distribution.png)
+![Sentiment Distribution](./results/sentiment_distribution.png)
 
 Confusion Matrix
-
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](./results/confusion_matrix.png)
